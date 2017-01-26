@@ -1,1 +1,1 @@
-# github-training-1
+# GitHub Training / first edit
